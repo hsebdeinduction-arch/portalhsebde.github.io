@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Situs Saya</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        h1 { color: #333; }
+        .menu { display: flex; justify-content: center; gap: 10px; }
+        .menu a { padding: 10px; background: #f0f0f0; text-decoration: none; color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Selamat Datang di Situs Saya</h1>
+    <div class="menu">
+        <a href="#">Fitur 1</a>
+        <a href="#">Fitur 2</a>
+        <a href="#">Fitur 3</a>
+    </div>
+</body>
+</html>
